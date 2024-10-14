@@ -5,7 +5,7 @@
 
 This project is a Data Engineering challenge focused on processing New York Taxi Trip Data. The objective is to design and implement a scalable data pipeline that automates the extraction of taxi trip data, processes it to clean and transform it, and then loads it into a database for further analysis.
 
-Due to machine limitations and the time-consuming nature of processing the full dataset, we have randomly selected 5000 rows from each file for processing. This ensures that the project runs efficiently while still providing meaningful insights and visualizations based on the sampled data.
+Due to machine limitations and the time-consuming nature of processing the full dataset, I have randomly selected 5000 rows from each file for processing. This ensures that the project runs efficiently while still providing meaningful insights and visualizations based on the sampled data.
 
 The project also involves generating insights and visualizations from the processed data to derive useful trends and patterns from the taxi trip data
 
